@@ -1,0 +1,1 @@
+Simple Android currency calculator
